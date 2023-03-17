@@ -3,3 +3,5 @@ Hola mundo tknika
 2da línea, ahora hacemos stagging.
 
 metemos esta linea en la rama "rama_1_prueba".
+
+Ahora en rama cambiamos para forzar conflicto
