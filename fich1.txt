@@ -9,3 +9,6 @@ metemos cambio en rama conflicto
 MAster cambiado par confflicto
 
 aceptamos 
+
+cambio para sincronizar con remoto
+
