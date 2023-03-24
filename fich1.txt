@@ -7,3 +7,5 @@ metemos esta linea en la rama "rama_1_prueba".
 metemos cambio en rama conflicto
 
 MAster cambiado par confflicto
+
+aceptamos 
